@@ -1,46 +1,32 @@
 # Inventory Stock Level Audit Dashboard
 
-## About the Project
-
-This is an Inventory Stock Level Audit Dashboard created in Microsoft Excel.
-
-The dashboard helps analyze inventory data by showing stock value, warehouse performance, product details, and stock status in a simple and visual way.
-
-## Features
-
-- Total Inventory Value
-- Warehouse-wise Inventory Analysis
-- Category-wise Inventory Analysis
-- Stock Status Tracking
-- Top Products by Inventory Value
-- Charts and Visual Reports
+## Project Overview
+This project analyzes inventory stock levels across multiple warehouses using Microsoft Excel.
 
 ## Tools Used
-
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Slicers
-- Conditional Formatting
-
-## Dashboard Preview
-
-![Dashboard](Dashboard_Screenshot.png)
-
-## What I Learned
-
-Through this project, I practiced:
-
 - Data Analysis
-- Dashboard Creation
-- Data Visualization
-- Pivot Tables
-- Reporting in Excel
+
+## Key Metrics
+- Total Inventory Value
+- Total Unique Products
+- Total Warehouses
+- Low Stock Products
+
+## Dashboard Insights
+- Inventory Value by Category
+- Inventory Value by Warehouse
+- Stock Status Distribution
+- Top 10 Products by Inventory Value
+
+## Business Benefits
+- Identify low stock products
+- Monitor warehouse inventory
+- Improve stock management
+- Support inventory planning
 
 ## Author
-
-**Md Jeebraeel**
-
-MBA Student (Business Analytics)
-
-Learning Excel, SQL, and Data Analytics.
+Md Jeebraeel
+MBA Student | Business Analytics
